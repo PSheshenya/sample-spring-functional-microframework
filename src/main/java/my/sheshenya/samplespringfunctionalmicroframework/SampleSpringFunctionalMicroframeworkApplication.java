@@ -1,15 +1,15 @@
 package my.sheshenya.samplespringfunctionalmicroframework;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.http.server.reactive.HttpHandler;
 import org.springframework.http.server.reactive.ReactorHttpHandlerAdapter;
 import org.springframework.web.reactive.function.server.HandlerFunction;
 import org.springframework.web.reactive.function.server.RouterFunction;
 import org.springframework.web.reactive.function.server.RouterFunctions;
 import org.springframework.web.reactive.function.server.ServerResponse;
-import reactor.netty.http.server.HttpServer;
 
+import reactor.netty.http.server.HttpServer;
 import java.io.IOException;
 
 import static org.springframework.http.MediaType.APPLICATION_JSON;

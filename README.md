@@ -1,5 +1,5 @@
 # sample-spring-functional-microframework
-Using Spring as functional micro-framework with out Context 
+Use Spring Framework as functional micro-framework without using SpringBootApplication Context 
 
 
 
